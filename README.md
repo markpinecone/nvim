@@ -1,2 +1,1 @@
-# nvim
-My NeoVim cinfig
+Packer: https://github.com/wbthomason/packer.nvim (Required)
